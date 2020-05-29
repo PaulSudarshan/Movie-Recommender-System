@@ -15,6 +15,11 @@ The dataset is cleaned prior to applying correlation techniques and Null values 
 # Methodology 
 First we select a sample movie that the user has watched earlier and given good ratings. In my project i have selected two random movies belonging to two different genres. The first movie is Star Wars (1977) which is a Science Fiction movie, and the second movie selected was Liar Liar (1997) which is a comedy movie. 
 
+
+![](Images/Liar_Liar.jpg) ![](Images/StarWars.jpg)                                                  
+
+
+
 Our main objective is to suggest similar movies to the users who have watched atleast one of the two movies mentioned above.
 
 The individual ratings of these two movies is selected from the dataset and stored into two different pandas DataFrame.
